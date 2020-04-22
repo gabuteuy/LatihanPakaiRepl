@@ -6,5 +6,6 @@ int main(void) {
   printf("Masukkan B: ");
   scanf("%d",&b);
   printf("Nilai a = %d\nNilai b = %d",a,b);
+  printf("Sekarang Kita Punya Akses");
   return 0;
 }
