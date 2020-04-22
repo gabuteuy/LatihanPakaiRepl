@@ -2,6 +2,6 @@
 
 int main(void) {
   int a = 5;
-  printf("Hello Aku Second Akunnya Anom\n");
+  printf("Nilai a = %d\n",a);
   return 0;
 }
